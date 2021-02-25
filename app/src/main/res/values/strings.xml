@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectSelectionTracker</string>
+    <string name="str_delete">Delete</string>
+    <string name="str_amount_items_selected">Items selected %d</string>
+    <string name="str_zero">0</string>
+    <string name="str_item_check_icon">Item check icon</string>
+</resources>
